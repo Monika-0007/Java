@@ -18,5 +18,7 @@ public class operator {
         else {
             System.out.println("Zero");
         }
+        //NOT Operator
+        System.out.println(!false);
     }
 }
